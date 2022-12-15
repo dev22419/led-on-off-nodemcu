@@ -5,3 +5,5 @@ by this code you can control nodemcu 8266 builtin or external led using get requ
 
 NOTICE :
 you should be on the same network for using the code or get request .
+
+USAGE
